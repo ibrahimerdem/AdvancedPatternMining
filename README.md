@@ -12,6 +12,7 @@ some features seem to be advantageous for a specific type of data set, some are 
 It is obtained that the runtime efficiency of one algorithm not only depends upon the data set
 characteristics, but also minimum support threshold values are also significant impact on
 process times.
+
 **Keywords.** Frequent Pattern Mining, Sequential Pattern Mining, PrefixSpan, SPADE, CM-SPADE, Efficiency of Algorithms
 
 ### Data Source
@@ -24,9 +25,8 @@ process times.
 ### Preprocessed Data
 
 - [MSNBC](Data/MSNBC.txt)
-- [Online Retail](https://archive.ics.uci.edu/ml/datasets/online+retail)
-- [DNA Sequence](https://archive.ics.uci.edu/ml/datasets/Molecular+Biology+(Promoter+Gene+Sequences))
-- [Jupyter Notebook Version (Without Markdowns)](AntSystemNoMarkdown.ipynb)
+- [Online Retail](Data/Online Retail.txt)
+- [DNA Sequence](Data/DNA Sequence.txt)
 
 ### Tool
 
