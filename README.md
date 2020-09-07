@@ -23,7 +23,7 @@ process times.
 
 ### Preprocessed Data
 
-- [MSNBC](https://archive.ics.uci.edu/ml/datasets/msnbc.com+anonymous+web+data)
+- [MSNBC](data/MSNBC.txt)
 - [Online Retail](https://archive.ics.uci.edu/ml/datasets/online+retail)
 - [DNA Sequence](https://archive.ics.uci.edu/ml/datasets/Molecular+Biology+(Promoter+Gene+Sequences))
 - [Jupyter Notebook Version (Without Markdowns)](AntSystemNoMarkdown.ipynb)
