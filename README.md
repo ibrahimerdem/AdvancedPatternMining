@@ -25,8 +25,8 @@ process times.
 ### Preprocessed Data
 
 - [MSNBC](Data/MSNBC.txt)
-- [Online Retail](Data/Online Retail.txt)
-- [DNA Sequence](Data/DNA Sequence.txt)
+- [Online Retail](Data/Online%20Retail.txt)
+- [DNA Sequence](Data/DNA%20Sequence.txt)
 
 ### Tool
 
